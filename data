@@ -6,6 +6,9 @@ DATA from Coursera
 .data analytics
     .the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive 
     informed decision making 
+.data analysis 
+    .process of analyzing data 
+
 
 
 Data types
@@ -92,3 +95,29 @@ Aspects to Analytical thinking
 gap analysis 
     .examining and evaluating how a process works currently in order to get an improved future state
 
+
+Data life cycle
+.how analysts bring data to life; managing the data 
+.right data analysis tool 
+    .spreadsheets, databases, query languages, Visualization software 
+stages:
+
+.Plan
+    .decide the kind of data needed 
+        .how to manage the data through its life cycle 
+            .who's responsible for the data 
+                .optimal outcomes from the data's usage 
+.Capture
+    .data collection methods 
+        .data sources  
+.Manage 
+    .data storage 
+        .tools to keep the data safe and secure 
+            .actions to ensure its maintained properly 
+.Analyze 
+    .use data to solve problems, make decisions, and support business goals 
+.Archive
+    .storing the data where its accessible but may not be used again 
+    .keeping relevant data stored for long term and future reference 
+.Destroy
+    .removing data from storage and deleting any shared copies of the data 
