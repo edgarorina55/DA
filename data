@@ -1,2 +1,21 @@
 DATA from Coursera
 
+.the world's most valuable resource 
+.collection of facts 
+    .numbers/ pictures/ videos/ words/ measurements/ observations etc 
+.data analytics
+    .the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive 
+    informed decision making 
+
+
+Data types
+.numerical - consists of numbers that can be measured, counted, or used in mathematical calculations 
+.text/string data - consists of letters, words, sentences, or a mix od all
+    .used as identifiers, not for calculation 
+        e.g product name, customer address, notes, ID numbers
+.date data - represents specific points in time, such as date or timestamp
+    .crucial for tracking trends and events over time 
+.categorical data - can be divided into groups or categories 
+    .often represents labels, names, or discrete categories 
+        e.g product color, rating, customer loyalty status
+
