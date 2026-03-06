@@ -19,3 +19,31 @@ Data types
     .often represents labels, names, or discrete categories 
         e.g product color, rating, customer loyalty status
 
+
+Steps of DA
+.Ask
+    .problem statement
+    .understand the challenge to be solved 
+.Prepare
+    .build timeline of course of action 
+    .identify the data needed & the sources; verify source accuracy and usefulness in answering questions  
+    .develop specific questions
+        .establish rules for data access 
+            .develop specific info to be gathered 
+.Process
+    .cleaning & organizing the data 
+    .collection, storage, management, and protection of data
+        .removing inconsistencies, filling missing values, changing data format 
+        .restrict access to the data/ clean it to ensure complete, correct, and relevant/ upload the data to a warehouse to ensure security 
+.Analyze
+    .gain insights from the data
+        .analyze to uncover answers and solutions 
+        .examine trends and patterns from the data 
+        .document the findings and develop reports  
+.Share
+    .sharing the report to decision-makers through reporting/ presentation
+        .communicate the results with the right context 
+.Act 
+    .implement changes and take actions based on the findings
+
+
